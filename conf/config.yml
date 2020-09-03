@@ -1,0 +1,7 @@
+mysql:
+  user : root
+  password : hx19870527
+  host : 192.168.3.101
+  port : 3306
+  dbname : test
+  connetMax : 100
